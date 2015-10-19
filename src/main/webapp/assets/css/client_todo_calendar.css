@@ -1,0 +1,14 @@
+.todo-event-finished {
+    background-color: #38FF38;
+    color: #2E1818;
+}
+
+.todo-event-missed {
+    background-color: #F7BBBA;
+    color: #080808;
+}
+
+.todo-event-normal {
+    background-color: #BBDDFA;
+    color: #080808;
+}
