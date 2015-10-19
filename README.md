@@ -3,7 +3,7 @@ This is a CRM for internal needs which can be usefull for almost any company.
 It improves work with clients by operators and managers.
 
 Quick explanation of hierarchy:
-There are company using CRM. It has several funds (at least 1). 
+There is a company using CRM. It has several funds (at least 1). 
 It's customers can be either individual or company and can have 0..infinite contact persons with full name, phone numbers etc.
 Each customer can have 0..infinite contracts with any fund. Each contract have invoice and payment history. 
 
